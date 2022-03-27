@@ -20,6 +20,14 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-GPRW.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-HWBT-MagicBook X Pro 2019.aml</string>
 			</dict>
 			<dict>
@@ -42,7 +50,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-ALS0.aml</string>
 			</dict>
@@ -2098,9 +2106,9 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>External</string>
+			<string>Builtin</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\GoldenGate</string>
+			<string>Default</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -2121,7 +2129,7 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<integer>2147483650</integer>
+			<integer>0</integer>
 			<key>LogModules</key>
 			<string>*</string>
 			<key>SerialInit</key>
@@ -2442,7 +2450,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 darkwake=0 debug=0x100 acpi_layer=0x08 acpi_level=0x02 msgbuf=309212 npci=0x2000 vsmcgen=1 swd_panic=1 -wegoff</string>
+				<string>keepsyms=1 darkwake=0 debug=0x100 acpi_layer=0x08 acpi_level=0x02 npci=0x2000 vsmcgen=1 swd_panic=1 -wegoff -lilubetaall -vsmcbeta</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -2494,9 +2502,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02WNEY2HX87</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>45F2B4C8-0AA2-4044-B225-7E1A8222D092</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
