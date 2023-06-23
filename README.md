@@ -47,6 +47,10 @@ Please change MLB/ROM/Serial Number/UUID.
 
 * Front Camera
 
+### Detailed Information
+
+https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/issues/1
+
 ### Credits
 
 * Apple for macOS
