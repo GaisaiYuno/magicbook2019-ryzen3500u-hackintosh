@@ -5,7 +5,7 @@
 
 An OpenCore config for Magicbook 2019 (Ryzen Edition)
 
-OpenCore version: 0.7.8
+OpenCore version: 0.9.3
 
 macOS: 11.7.7
 
@@ -43,7 +43,7 @@ Please change MLB/ROM/Serial Number/UUID.
 
 * Hibernation
 
-* Touchpad (Please share the files with me or pull request if fixed)
+* Touchpad **(Please share the files with me or pull request if fixed)**
 
 * Front Camera
 
