@@ -98,19 +98,19 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-XHC1-DISABLE.aml</string>
+				<string>SSDT-XOSI.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-XHC1-DISABLE.aml</string>
+				<string>SSDT-XOSI.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-XOSI.aml</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-XOSI.aml</string>
+				<string>SSDT-XHCI1-DISABLE.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
