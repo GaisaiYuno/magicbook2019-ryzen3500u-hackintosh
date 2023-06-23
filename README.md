@@ -1,5 +1,8 @@
 # magicbook2019-ryzen3500u-hackintosh
 
+![image](https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/assets/52853137/534da580-53c8-4330-a09f-cb8017922020)
+
+
 An OpenCore config for Magicbook 2019 (Ryzen Edition)
 
 OpenCore version: 0.7.8
