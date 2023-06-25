@@ -1,5 +1,7 @@
 # magicbook2019-ryzen3500u-hackintosh
 
+[中文说明](/README-CN.md)
+
 ![image](https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/assets/52853137/534da580-53c8-4330-a09f-cb8017922020)
 
 
@@ -37,15 +39,13 @@ Please change MLB/ROM/Serial Number/UUID.
   * Boot from pendrive
   * Navigate to Device Properties > AMD CBS > FCH Common Options > USB Configuration Options > **XHCI1** Controller Enable: Change to Disabled
   * Esc to back and press Y when prompted to save, Esc to back, then Reset on first menu (not continue)
+* Touchpad (working under polling mode, by adding `-vi2c-force-polling` into boot-args)
 
 
 ### What is not working
 
 * Hibernation
-
-* Touchpad **(Please share the files with me or pull request if fixed)**
-
-* Front Camera
+* Front Camera (connected to XHC, which is disabled)
 
 ### Detailed Information
 
@@ -58,3 +58,4 @@ https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/issues/1
 * https://github.com/pondsmile/EFI-Lenovo-Ideapad-C340-Hackintosh
 
 * https://github.com/NootInc/NootedRed
+

@@ -1,0 +1,7 @@
+- 需要用 [UniversalAMDFormBrowser.zip](https://github.com/DavidS95/Smokeless_UMAF/blob/main/UniversalAMDFormBrowser.zip) 禁用 XHC1（右边的 USB 口），具体方法详见英文版说明。摄像头在 XHC1 上，因此无法驱动。禁用右边的 USB 口之后可能 USB 口不够用，视情况购买 USB 分线器。
+- 硬盘更换为 SN570，如果是原来的 Samsung MZVLB256HAHQ (pm981)，需要使用恢复版安装并且打上 pm981 补丁。 
+- 触控板使用 VoodooI2C AMD 定制版驱动，并且只能工作在 polling 模式下。
+- 网卡原生支持驱动，不需要 Heilport.app，但是经测试连不上一些特定的设备比如蓝牙键盘。之后会考虑换网卡。隔空传送没有测试过。
+- 目前测试只能安装 11.7.7 版本。
+- 请更换 MLB/ROM/Serial Number/UUID。
+- 项目在 https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh，欢迎 star 或者提出 pr。
