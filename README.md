@@ -59,3 +59,11 @@ https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/issues/1
 
 * https://github.com/NootInc/NootedRed
 
+
+### Bonus
+
+Minecraft is playable and the performance is not bad.
+
+![image](https://github.com/GaisaiYuno/magicbook2019-ryzen3500u-hackintosh/assets/52853137/e9563f13-3126-458d-a530-9e122be0324d)
+
+
